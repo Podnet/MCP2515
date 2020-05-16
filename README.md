@@ -1,7 +1,7 @@
-# A blank Mongoose OS library
+# A MCP2515 Mongoose OS library
 
 
 ## Overview
 
-This blank library is intended to be used as a skeleton for deleloping
-Mongoose OS libraries.
+This library is intended to be used as a 
+MCP2515 compat for Mongoose OS.
