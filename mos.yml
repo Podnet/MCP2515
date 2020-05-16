@@ -1,7 +1,7 @@
-name: mgos_empty_lib
-author: Apoorva Singh <apoorvasingh@thepodnet.com>
+name: MCP2515
+author: Hrithik Yadav <hrithikyadav@thepodnet.com>
 type: lib
-description: An empty lib that does nothing
+description: MCP2515 arduino library port to Mongoose OS
 version: 0.1
 
 
@@ -16,9 +16,10 @@ filesystem:
 
 config_schema:
 libs:
+  - origin: https://github.com/mongoose-os-libs/arduino-compat
+  - origin: https://github.com/mongoose-os-libs/arduino-spi
 
 tags:
   - c
-  - docs:misc:Empty
 
 manifest_version: 2017-09-29
