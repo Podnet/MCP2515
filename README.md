@@ -3,5 +3,4 @@
 
 ## Overview
 
-This library is intended to be used as a 
-MCP2515 compat for Mongoose OS.
+This library is intended to be used as a arduino compatible library of MCP2515 for mongooose OS.
